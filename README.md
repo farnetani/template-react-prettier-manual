@@ -1,5 +1,5 @@
 <h3 align="center">
-  Template React Eslint Prettier Jest
+  template-react-prettier-manual
 </h3>
 
 <p align="center">
@@ -16,7 +16,11 @@
 
 ## :rocket: Sobre o aplicativo
 
-Criado para deletar recursivamente as pastas `node_modules` para facilitar backups de copiar e colar do windows para aplicações frontend.
+Template em `React` sem utilizar o `create-react-app`. (normalmente para quem precisa explorar manualmente o `webpack.config.js`.
+
+Lembrando que optar por um TEMPLATE manual talvez não seja uma boa escolha, o ideal é utilizar o que o TIME do React libera através do `create-react-app` que já nos trás tudo configurado como deve ser. 
+
+Nesse template temos uma aplicação demo de tasks feitas no curso da Ignite da Rocketseat.
 
 ```
 ./
