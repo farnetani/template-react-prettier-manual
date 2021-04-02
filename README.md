@@ -18,7 +18,7 @@
 
 Template em `React` sem utilizar o `create-react-app`. (normalmente para quem precisa explorar manualmente o `webpack.config.js`.
 
-Lembrando que optar por um TEMPLATE manual talvez não seja uma boa escolha, o ideal é utilizar o que o TIME do React libera através do `create-react-app` que já nos trás tudo configurado como deve ser. 
+Lembrando que optar por um TEMPLATE manual talvez não seja uma boa escolha, o ideal é utilizar o que o TIME do React libera através do `create-react-app` que já nos trás tudo configurado como deve ser.
 
 Nesse template temos uma aplicação demo de tasks feitas no curso da Ignite da Rocketseat.
 
@@ -66,6 +66,25 @@ Nesse template temos uma aplicação demo de tasks feitas no curso da Ignite da 
 ```bash
 Ver scripts no package.json
 ```
+<br>
+
+## Outros Templates
+
+**[template-react-prettier-manual](https://github.com/farnetani/template-react-prettier-manual)**
+
+Template para minhas aplicações em React com Eslint + Prettier + Jest sem utilizar o create-react-app.
+
+**[template-react-sem-css](https://github.com/farnetani/template-react-sem-css)**
+
+Template com Create-React-App + Prettier + outras configurações porém sem a instalação do tailwindCSS ou styled-components, ficando livre pra instalar o que desejar, e também não está com SASS.
+
+**[template-react-tailwindcss](https://github.com/farnetani/template-react-tailwindcss)**
+
+Template com create-react-app + prettier + jest + tailwindcss
+
+**[template-react-styled-components](https://github.com/farnetani/template-react-styled-components)**
+
+Template criado do zero com create-react-app e já configurado para utilizar o styled-components.
 
 <br>
 
