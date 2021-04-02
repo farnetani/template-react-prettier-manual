@@ -10,16 +10,8 @@
     "prepare": "husky install",
     "build:dev": "yarn webpack --mode=development",
     "dev": "webpack serve",
-    "build": "cross-env NODE_ENV=production webpack",
-    "lint-staged": "lint-staged"
+    "build": "cross-env NODE_ENV=production webpack"
   },
-  "lint-staged": {
-    "src/**/*": [
-      "yarn run lint --fix",
-      "yarn run test --findRelatedTests --bail"
-    ]
-  },
-  "pre-commit": "lint-staged",
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
